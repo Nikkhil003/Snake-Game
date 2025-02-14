@@ -55,7 +55,13 @@ To run this project locally, follow these steps:
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/snake-game-ai.git
+
+2. Navigate to the project folder:
+   ```
    cd snake-game-ai
+
+4. Run the game:
+   ```
    python snake_game.py
 
 ---
